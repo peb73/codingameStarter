@@ -1,8 +1,6 @@
-package com.codingame.starter;
+package com.codingame.starter.coderStrikeBack.vers1;
 
-import java.util.*;
-import java.io.*;
-import java.math.*;
+import java.util.Scanner;
 
 public class Player {
 
@@ -24,8 +22,8 @@ public class Player {
 			// Edit this line to output the target position
 			// and thrust (0 <= thrust <= 100)
 			// i.e.: "x y thrust"
-			System.out.println(nextCheckpointY + " " + nextCheckpointY + " 50");
+			System.out.println(nextCheckpointY + " " + nextCheckpointY + " 100");
 
 		}
 	}
-}}
+}
